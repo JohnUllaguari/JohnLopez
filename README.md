@@ -9,7 +9,7 @@ proyectos y mis intereses.
 * Nombre: John Jairo Lopez Cagua
 * Ocupación: Estudiante
 * Lugar de residencia: Guayaquil-Ecuador
-* Sitio web: https://JohnLopez.github.io
+* Sitio web: https://JohnUllaguari.github.io
 ## Proyectos
 * Programa para bookingfligths (POO)
 * App de contactos (Estructuras de datos)
