@@ -20,7 +20,7 @@
 | **👤 Nombre**  | John Jairo Lopez Cagua                            |
 | **🎓 Ocupación** | Estudiante                                       |
 | **📍 Ciudad**   | Guayaquil, Ecuador                                |
-| **🌐 Web**      | [johnullaguari.github.io](https://johnullaguari.github.io/JohnUllaguari/) |
+| **🌐 Web**      | [https://johnullaguari.github.io/JohnUllaguari/](https://johnullaguari.github.io/JohnUllaguari/) |
 
 ---
 
