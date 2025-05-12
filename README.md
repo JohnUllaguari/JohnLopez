@@ -26,33 +26,11 @@
 
 ## 🚀 **Proyectos Destacados**
 
-### ✈️ **Booking Flights** *(POO)*
-
-> Sistema orientado a objetos para gestionar reservas de vuelos.
-
-- 🛠️ **Tecnologías:** Java, JavaFX  
-- 📌 **Estado:** 🔴 Finalizado  
-- 🔗 **Repositorio:** [Ver en GitHub](https://github.com/GenesisMichilena/POO5_2P_Michilena_Benitez_Ullaguari)
-
----
-
-### 📦 **Sistema de Encomiendas** *(POO)*
-
-> Gestión de envíos y encomiendas con enfoque en programación orientada a objetos.
-
-- 🛠️ **Tecnologías:** Java, JavaFX  
-- 📌 **Estado:** 🔴 Finalizado  
-- 🔗 **Repositorio:** [Ver en GitHub](https://github.com/GenesisMichilena/POO5_1P_Michilena_Benitez_Ullaguari)
-
----
-
-### 📱 **App de Contactos** *(Estructuras de Datos)*
-
-> Aplicación para administrar contactos con estructuras de datos optimizadas.
-
-- 🛠️ **Tecnologías:** Java, JavaFX  
-- 📌 **Estado:** 🔴 Finalizado  
-- 🔗 **Repositorio:** [Ver en GitHub](https://github.com/DiegoBedoya1/Proyecto-Estructuras)
+| Proyecto                          | Descripción                                                                 | Tecnologías     | Estado     | Repositorio                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|-----------------|------------|------------------------------------------------------------------------------|
+| ✈️ Booking Flights *(POO)*       | Sistema para gestionar reservas de vuelos basado en POO                    | Java, JavaFX    | 🔴 Finalizado | [Ver en GitHub](https://github.com/GenesisMichilena/POO5_2P_Michilena_Benitez_Ullaguari) |
+| 📦 Sistema de Encomiendas *(POO)*| Gestión de envíos y encomiendas usando programación orientada a objetos    | Java, JavaFX    | 🔴 Finalizado | [Ver en GitHub](https://github.com/GenesisMichilena/POO5_1P_Michilena_Benitez_Ullaguari) |
+| 📱 App de Contactos *(EDD)*      | Aplicación para organizar contactos con estructuras de datos eficientes    | Java, JavaFX    | 🔴 Finalizado | [Ver en GitHub](https://github.com/DiegoBedoya1/Proyecto-Estructuras)       |
 
 ---
 
